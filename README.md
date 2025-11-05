@@ -1,2 +1,2 @@
 # Devops-demo
-i am learning devops and doing practice on git 
+i am learning devops and doing practice on github
